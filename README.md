@@ -5,13 +5,15 @@
 
 ## 프로젝트 개요
 
-**기간** | 07. 22 ~ 08. 23
+**✅ 기간** | 07. 22 ~ 08. 23
 
-**주제** | 핀테크
+**✅ 주제** | 핀테크
 
-**목표** | 금융결제원의 오픈뱅킹API 를 통해 오픈 API 적용 경험 및 기능 확장
+**✅ 목표**
+1. 금융결제원의 오픈뱅킹API 를 통해 오픈 API 적용 경험
+2. 작은 단위의 MVP 우선 구현 후 기능 확장 시도
 
-**Tech Stack** |
+**✅ Tech Stack**
 <div> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
