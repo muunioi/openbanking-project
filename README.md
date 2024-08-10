@@ -1,5 +1,6 @@
-# 💸 개인 금융 관리 서비스
-금융결제원의 오픈뱅킹API를 활용한 개인 금융 관리 서비스
+# 💸 개인 금융 관리 서비스 : 통장 쪼개기
+금융결제원의 오픈뱅킹API를 활용한 개인 금융 관리 서비스 : 통장쪼개기
+- 생활비를 각종 목적에 맞게 쪼개서 관리할 수 있도록 도와주는 서비스
 
 <br/>
 
@@ -16,7 +17,7 @@
 **✅ Tech Stack**
 <div> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
 
@@ -44,9 +45,9 @@
 
 <br/>
 
-4. **가상 계좌 생성 및 삭제**
-- 가상 계좌를 생성할 수 있으며, 거래 유효기간은 1일로 제한
-- 가상 계좌를 삭제할 수 있으며, 잔액은 본인 명의 계좌로 반환
+4. **쪼개기 계좌 생성 및 삭제**
+- 목적에 맞는 가상 계좌를 생성할 수 있다
+- 가상 계좌를 삭제할 수 있으며, 잔액은 나의 계좌로 반환
 
 <br/>
 
@@ -67,7 +68,8 @@
 <br/>
 
 ## ERD
-<img width="1195" alt="스크린샷 2024-07-29 오후 9 10 45" src="https://github.com/user-attachments/assets/06d4add6-365b-47e6-b5aa-6c0ac80f7d26">
+<img width="1155" alt="스크린샷 2024-08-09 오후 9 57 49" src="https://github.com/user-attachments/assets/daca4a6b-fadd-4ea6-b613-1ffe16c4ebc0">
+
 
 <br/>
 <br/>
